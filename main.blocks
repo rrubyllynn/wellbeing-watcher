@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="rrfh7LV}2#SM4w.t`yW|">water</variable></variables><block type="device_gesture_event" id="7b.pNz5V|p@}[ELS*z(}" x="0" y="0"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="variables_change" id="WQMud^^pUajVW*n5PzD@"><field name="VAR" id="rrfh7LV}2#SM4w.t`yW|">water</field><value name="VALUE"><shadow type="math_number" id="I:csTu~J@}OUJDqr/0V!"><field name="NUM">1</field></shadow></value></block></statement></block><block type="device_button_event" id="og+v`*jg0YpAS!*Bx/AQ" x="271" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="ac`r+KR}C/V++a+}AtOY"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # # # # # 
+        # # # # # 
+        . # # # .
+        `</field><next><block type="device_show_number" id=";-,`mQ|Fk@.R;M7+sHt@"><value name="number"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="variables_get" id="AgHdmcZt;=@Q[qJ*/d?d"><field name="VAR" id="rrfh7LV}2#SM4w.t`yW|">water</field></block></value></block></next></block></statement></block></xml>
